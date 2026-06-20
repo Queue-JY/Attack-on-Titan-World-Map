@@ -2,7 +2,7 @@
 
 > 진격의 거인 세계관을 인터랙티브 지도로 표현한 팬 사이트입니다.
 
-🔗 **[라이브 데모 보기]([https://queue-jy.github.io/frontend/](https://queue-jy.github.io/Attack-on-Titan-World-Map/))**
+🔗 **[라이브 데모 보기](https://queue-jy.github.io/Attack-on-Titan-World-Map/))**
 
 ---
 
